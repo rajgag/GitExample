@@ -24,7 +24,7 @@ class Addition
 	public static void main(String[] args) 
 	{
 		
-		System.out.println("Addition of Two number"+ ":" +add1(80,20));
+		System.out.println("Addition of Two number"+ ":" +add1(120,20));
 		
 		System.out.println("Addition of Three number"+ ":" +add2(60,20,20));
 
